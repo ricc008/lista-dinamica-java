@@ -27,7 +27,9 @@ lista-dinamica-java/
 ├── Main.java
 └── README.md
 
-## 🧱 Descrição das classes
+---
+
+##🧱 Descrição das classes
 No.java
 Representa o nó da lista, contendo:
 
@@ -53,7 +55,7 @@ Classe principal utilizada para:
 - Visualizar o funcionamento da estrutura
 
 
-##✅ Características da Lista Dinâmica
+##✅Características da Lista Dinâmica
 
 - Tamanho variável
 - Cresce e diminui conforme a necessidade
@@ -68,7 +70,7 @@ Classe principal utilizada para:
 - Estrutura flexível
 
 
-## ❌ Desvantagens
+## ❌Desvantagens
 
 - Acesso sequencial aos elementos
 - Maior consumo de memória devido às referências
